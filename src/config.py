@@ -1,0 +1,1 @@
+data_source_path = 'notebook/data/stud.csv'
